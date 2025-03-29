@@ -42,18 +42,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-medical-robotic-system-lab-is-active",
+          title: 'Medical Robotic System lab is active!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-we-are-looking-for-graduate-students",
+          title: 'We are looking for graduate students',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-uhf-magnetic-actuation",
+            },},{id: "projects-uhf-magnetic-actuation",
           title: 'UHF Magnetic Actuation',
           description: "explore novel magnetic medical robotic concepts at ultrahigh fields",
           section: "Projects",handler: () => {
