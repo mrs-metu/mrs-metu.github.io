@@ -2,7 +2,7 @@
 layout: page
 title: UHF Magnetic Actuation
 description: explore novel magnetic medical robotic concepts at ultrahigh fields 
-img: uhf_concept.png
+img: assets/img/uhf_concept.png
 importance: 1
 category: work
 related_publications: true
