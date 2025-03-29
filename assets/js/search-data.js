@@ -58,11 +58,16 @@ ninja.data = [{
           description: "explore novel magnetic medical robotic concepts at ultrahigh fields",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-mri-based-tracking",
+          title: 'MRI-based Tracking',
+          description: "develop MRI sequences and tracking algorithms for magnetic microrobots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-wireless-magnetic-tracking",
+          title: 'Wireless Magnetic Tracking',
+          description: "develops NMR Magnetic sensors for wireless tracking",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
