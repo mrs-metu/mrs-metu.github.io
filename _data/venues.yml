@@ -5,5 +5,13 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"Vision":
-  color: "#009f36"
+
+"IEEE":
+  color: "#0271a6"
+  
+
+"Science":
+  color: "#c4161c"
+
+"Nature":
+  color: "#f7f7f7"
