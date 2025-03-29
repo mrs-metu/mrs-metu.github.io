@@ -2,7 +2,7 @@
 layout: about
 title: Homepage
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 
 announcements:
@@ -18,8 +18,12 @@ We develop next generation of medical robotics systems focusing on novel actuati
 We are looking for talented Master's, Doktoral students and Postdoctoral researchers, as well as motivated undergraduate researcher/interns. 
 
 Contact: Dr. M. Efe Tiryaki
+
 Email: coming@soon
 
+
 Mechanical Enginnering
+
 Middle East Tecnical University
+
 Ankara,Türkiye
