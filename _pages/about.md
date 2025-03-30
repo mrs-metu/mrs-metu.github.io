@@ -11,7 +11,8 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 ---
-![image info](../assets/img/webpage_logo.png)
+
+<img src="../assets/img/webpage_logo.png" alt="drawing" width="400"/>
 
 We develop next generation of medical robotics systems focusing on novel actuation and sensing methods.
 
