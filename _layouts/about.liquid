@@ -51,10 +51,12 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
+    <div class="News" style="text-align: center">
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
+    </div>
     {% endif %}
 
 
