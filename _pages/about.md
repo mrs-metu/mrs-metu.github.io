@@ -12,18 +12,6 @@ announcements:
 
 ---
 
-<img src="../assets/img/webpage_logo.png" alt="drawing" width="400"/>
-
-We develop next generation of medical robotics systems focusing on novel actuation and sensing methods.
-
----
-
-We are continuously looking for talented Master's, Doctoral students, and Postdoctoral researchers, as well as motivated undergraduate researchers/interns [My page](/Opportunities/index.html). 
-
-Contact: Dr. M. Efe Tiryaki\
-Email: coming@soon
 
 
-Mechanical Enginnering\
-Middle East Tecnical University\
-Ankara,Türkiye
+
