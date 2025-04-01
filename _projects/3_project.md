@@ -4,7 +4,7 @@ title: Wireless Magnetic Tracking
 description: develops NMR Magnetic sensors for wireless tracking 
 img: 
 importance: 2
-category: work
+category: ongoing
 related_publications: true
 ---
 

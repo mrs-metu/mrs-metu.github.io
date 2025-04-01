@@ -4,7 +4,7 @@ title: MRI-based Tracking
 description: develop MRI sequences and tracking algorithms for magnetic microrobots
 img: 
 importance: 2
-category: fun
+category: past
 giscus_comments: true
 ---
 
