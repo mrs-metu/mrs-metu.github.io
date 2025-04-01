@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /opportunities/
-title: Opportunities
+permalink: /Career/
+title: Career
 description: 
 nav: true
 nav_order: 4
