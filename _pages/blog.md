@@ -32,23 +32,6 @@ pagination:
 
   <p>Bachelor's students who want to apply Tübitak 2209-A project support on medical robotic systems could contact us with their projects. We do not provide salary/scholarship or accomodation for interns. However, we could support your applications to Tübitak 2247-C  </p>
 
-<h2> Potential Funding Options </h2>
-  <p> For Doctoral and Master's students (* for international students) </p>
-  <ul>
-    <li> Tübitak 2210 MSc Scholarship </li>
-    <li> Tübitak 2211 National PhD Scholarship 
-    <li> Tübitak 2216C TÜBA-TÜBİTAK Özbekistan Aziz Sancar Research Scholarship Program *
-  </ul> 
-  <p> For Postdoctoral resaerchers </p>
-  <ul>
-    <li> More information will be available </li>
-  </ul> 
-  <p> For Undergraduates </p>
-  <ul>
-    <li> Tübitak 2247-C Star Internship Scholarship
-    <li> 2209-A Undergraduate project support </li>
-  </ul> 
-
 <h2> Open positions </h2>
   <div class="post">
 
@@ -190,3 +173,20 @@ pagination:
   </div>
 
 
+
+<h2> Potential Funding Options </h2>
+  <p> For Doctoral and Master's students (* for international students) </p>
+  <ul>
+    <li> Tübitak 2210 MSc Scholarship </li>
+    <li> Tübitak 2211 National PhD Scholarship 
+    <li> Tübitak 2216C TÜBA-TÜBİTAK Özbekistan Aziz Sancar Research Scholarship Program *
+  </ul> 
+  <p> For Postdoctoral resaerchers </p>
+  <ul>
+    <li> More information will be available </li>
+  </ul> 
+  <p> For Undergraduates </p>
+  <ul>
+    <li> Tübitak 2247-C Star Internship Scholarship
+    <li> 2209-A Undergraduate project support </li>
+  </ul> 
