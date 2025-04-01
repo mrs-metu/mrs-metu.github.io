@@ -18,7 +18,7 @@ We develop next generation of medical robotics systems focusing on novel actuati
 
 ---
 
-We are continuously looking for talented Master's, Doctoral students, and Postdoctoral researchers, as well as motivated undergraduate researchers/interns. 
+We are continuously looking for talented Master's, Doctoral students, and Postdoctoral researchers, as well as motivated undergraduate researchers/interns {% link {{ page.blog }} %}. 
 
 Contact: Dr. M. Efe Tiryaki\
 Email: coming@soon
