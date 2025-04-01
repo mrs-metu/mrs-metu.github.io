@@ -2,6 +2,7 @@
 layout: default
 ---
 <div class="post">
+<!--
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
@@ -13,43 +14,28 @@ layout: default
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
-
+--->
   <article>
-    {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        {% if page.profile.image %}
-          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-          {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
-          {% endif %}
-          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-          {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image  cache_bust=true %}
-        {% endif %}
-      </div>
-    {% endif %}
-
+    
     <div class="clearfix">{{ content }}</div>
     
     <img src="../assets/img/webpage_logo.png" alt="drawing" width="400"/>
 
     <div class="Lab_summary" style="text-align: center">
-
-    We develop next generation of medical robotics systems focusing on novel actuation and sensing methods.
+      <h1> Future of Medical Robots</h1>
       
-    <a href="/Projects/">Learn More</a>
-
+      <p> We develop next generation of medical robotics systems focusing on novel actuation and sensing methods.</p>
+      <br>  
+      <a href="/Projects/">Learn More</a>
     </div>
 
     <div class="Hiring" style="text-align: center">
 
-    <h1> Looking for Teammates!</h1>
-    We are continuously looking for talented Master's, Doctoral students, and Postdoctoral researchers, as well as motivated undergraduate researchers/interns. 
+      <h1> Looking for Teammates!</h1>
+      <p>We are continuously looking for talented Master's, Doctoral students, and Postdoctoral researchers, as well as motivated undergraduate researchers/interns. </p>
+      <br>
+      <a href="/Opportunities/index.html">Opportunities</a>
 
-    <a href="/Opportunities/index.html">Opportunities</a>
-
-    <button class="opportunities_button"> Opportunities </button>
 
     </div>
 
