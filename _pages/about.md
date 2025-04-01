@@ -4,11 +4,13 @@ title: Homepage
 permalink: /
 subtitle: 
 
+selected_papers: true 
+social: true 
 
 announcements:
   enabled: true 
   scrollable: true 
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 5 
 
 ---
 
