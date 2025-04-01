@@ -16,22 +16,22 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
-We are continuously looking for talented Master's, Doctoral students, and Postdoctoral researchers, as well as motivated undergraduate researchers/interns.
+ <p>We are continuously looking for talented Master's, Doctoral students, and Postdoctoral researchers, as well as motivated undergraduate researchers/interns. </p>
 
-## Graduate Students
-We are looking for Doctoral and Master's students with backgrounds in Mechanical, Electronics, Biomedical Engineering, Computer and Material Science, and Physics who are interested in developing the next generation of medical robots, novel actuation/sensing methods, and medical imaging systems. 
+<h1> Graduate Students </h1>
+<p> We are looking for Doctoral and Master's students with backgrounds in Mechanical, Electronics, Biomedical Engineering, Computer and Material Science, and Physics who are interested in developing the next generation of medical robots, novel actuation/sensing methods, and medical imaging systems.  </p>
 
-You can apply to the funded positions listed below. Or you can apply with a provocative research idea related to medical robotic systems, and we can explore alternative funding options together. Please send your motivation letter, CV, transcripts, and selected publications via email.  
+<p>You can apply to the funded positions listed below. Or you can apply with a provocative research idea related to medical robotic systems, and we can explore alternative funding options together. Please send your motivation letter, CV, transcripts, and selected publications via email.   </p>
 
-## Postdoctoral Researchers
-We welcome postdoctoral researchers who want to deepen their experience in medical robotic research. Currently, we do not have funding for postdoctoral researchers, but we could support them in their fellowship and grant applications.
+<h1> Postdoctoral Researchers </h1>
+<p>We welcome postdoctoral researchers who want to deepen their experience in medical robotic research. Currently, we do not have funding for postdoctoral researchers, but we could support them in their fellowship and grant applications. </p>
 
-## Undergraduate Researchers/Interns
-We welcome undergraduate from METU and other universities in Mechanical, Electronics, Mechatronics, Biomedical Engineering, Computur and Material Science, and Physics departments to join our project. Please send your motivation letter, CV, transcripts, and selected publications via email.  
+<h1> Undergraduate Researchers/Interns </h1>
+<p>We welcome undergraduate from METU and other universities in Mechanical, Electronics, Mechatronics, Biomedical Engineering, Computur and Material Science, and Physics departments to join our project. Please send your motivation letter, CV, transcripts, and selected publications via email.   </p>
 
-Bachelor's students who want to apply Tübitak 2209-A project support on medical robotic systems could contact us with their projects. We do not provide salary/scholarship or accomodation for interns. However, we could support your applications to Tübitak 2247-C 
+<p>Bachelor's students who want to apply Tübitak 2209-A project support on medical robotic systems could contact us with their projects. We do not provide salary/scholarship or accomodation for interns. However, we could support your applications to Tübitak 2247-C  </p>
 
-## Open positions
+<h1> Open positions </h1>
 <div class="post">
 
   {% assign featured_posts = site.posts | where: "featured", "true" %}
@@ -172,7 +172,7 @@ Bachelor's students who want to apply Tübitak 2209-A project support on medical
 </div>
 
 
-## Potential Funding Options
+<h1> Potential Funding Options </h1>
 For Doctoral and Master's students (* for international students)
 * Tübitak 2210 MSc Scholarship 
 * Tübitak 2211 National PhD Scholarship 
