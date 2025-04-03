@@ -74,7 +74,8 @@ pagination:
                 </h3>
               <p>{{ post.description }} ( {{ post.funding}} )</p>
               <p class="post-meta">
-                {{ post.date | date: '%B %d, %Y' }}
+                Announced : {{ post.date | date: '%B %d, %Y' }}
+                Deadline : {{ post.deadline | date: '%B %d, %Y' }}
               </p>
 
         {% if post.thumbnail %}
