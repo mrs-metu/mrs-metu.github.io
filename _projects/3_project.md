@@ -9,3 +9,6 @@ related_publications: true
 ---
 
 Under revision... Details will come soon
+
+
+<h3> Related papers </h3>

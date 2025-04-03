@@ -10,3 +10,6 @@ related_publications: true
 
 Details will come soon
 
+
+
+<h3> Related papers </h3>
