@@ -59,11 +59,11 @@ layout: default
       
       <p> Applicant should have experience/knowledge in following areas: </p>
       <ul>
-          {% for experience in page.applicant_experience.mandatory %}
+          {% for experience in page.applicant_experience_mandatory %}
               <li> {{ experience }} </li>
           {% endfor %}
 
-          {% for experience in page.applicant_experience.optional %}
+          {% for experience in page.applicant_experience_optional %}
               <li> {{ experience }} (optional)</li>
           {% endfor %}
       </ul>  
