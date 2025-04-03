@@ -31,6 +31,13 @@ layout: default
     <div id="markdown-content">
       <h3> Description (currently <b>{{ page.funding }}</b>)</h3>
       <p> {{ page.abstract }} </p>
+      
+      <p> Successful applicants will work on interdisciplinary research projects spanning various exciting fields, including: </p>
+      <ul>  
+      {% for topic in page.topics %}
+          <li> {{ topic }}</li>
+      {% endfor %}
+      </ul>
 
       {{ content }}
 

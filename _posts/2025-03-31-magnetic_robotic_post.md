@@ -6,22 +6,12 @@ description: PhD/MSc position (not Funded)
 tags: formatting links
 categories: sample-posts
 abstract: We develop novel magnetic continuum robots for minimally invasive robotics operations with medical image guidance. Your task will be exploring different magnetic continuum robot actuation methods, combining ultrahigh field magnetic actuation and concentric-tube robot actuation concepts.
+topics: [Magnetism and Magnetic actuation , Continuum mechanics ,Electromagnetic actuation systems,  Mechatronic design, Nonlinear control]
 funding: not funded
+experience:
+	- mandatory: []
+	- optional: []
 ---
-
-
-<h3> Description (currently <b>not funded</b>)</h3>
-
-<p> We develop novel magnetic continuum robots for minimally invasive robotics operations with medical image guidance. Your task will be exploring different magnetic continuum robot actuation methods, combining ultrahigh field magnetic actuation and concentric-tube robot actuation concepts. </p>
-
-<p> Successful applicants will work on interdisciplinary research projects spanning various exciting fields, including: </p>
-<ul>
-	<li> Magnetism and Magnetic actuation </li>
-	<li> Continuum mechanics </li>
-	<li> Electromagnetic actuation systems </li>
- 	<li> Mechatronic design </li>
-	<li> Nonlinear control </li>
-</ul>  
 
 <h4> Education & Experience </h4> 
 
