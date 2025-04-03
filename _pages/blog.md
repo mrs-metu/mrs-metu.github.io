@@ -95,6 +95,9 @@ pagination:
     <li> 
         <a href="https://tubitak.gov.tr/tr/burslar/lisansustu/uluslararasi-burslar/2216c-tuba-tubitak-ozbekistan-aziz-sancar-arastirma-burs-programi">
         Tübitak 2216C TÜBA-TÜBİTAK Özbekistan Aziz Sancar Research Scholarship Program *</a> 
+    <li> 
+        <a href="https://www.turkiyeburslari.gov.tr/about">
+        Türkiye Scholarships *</a> 
   </ul> 
   <p> For Postdoctoral resaerchers </p>
   <ul>
