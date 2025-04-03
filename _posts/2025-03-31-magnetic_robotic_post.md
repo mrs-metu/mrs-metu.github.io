@@ -5,6 +5,10 @@ date: 2025-03-31 09:02:00
 description: PhD/MSc position (not Funded)
 tags: formatting links
 categories: sample-posts
+
+abstract: We develop novel magnetic continuum robots for minimally invasive robotics operations with medical image guidance. Your task will be exploring different magnetic continuum robot actuation methods, combining ultrahigh field magnetic actuation and concentric-tube robot actuation concepts.
+
+funding: not funded
 ---
 
 
