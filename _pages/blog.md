@@ -63,7 +63,7 @@ pagination:
                     <a class="post-title" href="{{ post.redirect | relative_url }}">{{ post.title }}</a>
                   {% endif %}
                 </h3>
-              <p>{{ post.description }} ( {{ post.funding}} )</p>
+              <p>{{ post.description }} ( {{ post.funding }} )</p>
               <p class="post-meta"> Announced : {{ post.date | date: '%B %d, %Y' }} </p>
               <p class="post-meta"> Deadline : {{ post.deadline | date: '%B %d, %Y' }}</p>
 
