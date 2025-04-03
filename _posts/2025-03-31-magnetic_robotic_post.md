@@ -5,20 +5,12 @@ date: 2025-03-31 09:02:00
 description: PhD/MSc position (not Funded)
 tags: formatting links
 categories: sample-posts
+funding: currently not funded
 abstract: We develop novel magnetic continuum robots for minimally invasive robotics operations with medical image guidance. Your task will be exploring different magnetic continuum robot actuation methods, combining ultrahigh field magnetic actuation and concentric-tube robot actuation concepts.
 research_topics: [Magnetism and Magnetic actuation , Continuum mechanics ,Electromagnetic actuation systems,  Mechatronic design, Nonlinear control]
-funding: not funded
+applicant_background: [Mechanical Engineer, Electrical Engineer, Biomedical Engineering, Physics]
 ---
 
-<h4> Education & Experience </h4> 
-
-<p>Applicant should have</p>
-
-<ul>
-	<li> have high motivation </li>
-	<li> have good oral and written communication skills in English. </li>
-	<li> be able to work on-site at METU Ankara</li>
-</ul>  
 
 <p> Applicant should have experience/knowledge in following areas </p>
 

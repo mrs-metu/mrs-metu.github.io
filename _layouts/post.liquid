@@ -39,6 +39,23 @@ layout: default
           {% endfor %}
       </ul>
 
+      <h4> Education & Experience </h4> 
+
+      <p>Applicant should </p>
+
+      <ul>
+        <li> have background in  
+          {% assign limit = page.applicant_background.size | minus: 1 %}
+          {% for bg in page.applicant_background limit: limit %}
+              {{bg}} ,
+          {% endfor %}
+          or  page.applicant_background.last
+         </li>
+        <li> have high motivation </li>
+        <li> have good oral and written communication skills in English. </li>
+        <li> be able to work on-site at METU Ankara</li>
+      </ul>  
+
       {{ content }}
 
       <h4> Application </h4> 

@@ -6,7 +6,7 @@ description: PhD/MSc position (not Funded)
 tags: formatting links
 categories: sample-posts
 abstract: Coming soon ...
-funding: not funded
+funding: currently not funded
 
 ---
 Text
