@@ -5,4 +5,3 @@ date: 2025-03-31 09:00:00
 description: PhD/MSc position 
 funding: currently not funded
 ---
-Text

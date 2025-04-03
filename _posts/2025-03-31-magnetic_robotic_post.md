@@ -8,7 +8,7 @@ abstract: We develop novel magnetic continuum robots for minimally invasive robo
 research_topics: [Magnetism and Magnetic actuation , Continuum mechanics ,Electromagnetic actuation systems,  Mechatronic design, Nonlinear control]
 applicant_background: [Mechanical Engineering, Electrical Engineering, Biomedical Engineering, Mechatronic Engineering, Physics]
 applicant_experience:
-	mandatory: [Mechatronics (integrated hardware and software system) ,Programming (C++, Python, ROS),CAD designing, Embedded systems]
+	mandatory: [Mechatronics (integrated hardware and software system) , Programming (C++, Python, ROS) , CAD designing , Embedded systems]
 	optional: [Control theory , Magnetism]
 
 ---

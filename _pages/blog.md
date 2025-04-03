@@ -94,14 +94,18 @@ pagination:
     {% endif %}
   </div>
 
-
-
 <h2> Potential Funding Options </h2>
   <p> For Doctoral and Master's students (* for international students) </p>
   <ul>
-    <li> Tübitak 2210 MSc Scholarship </li>
-    <li> Tübitak 2211 National PhD Scholarship 
-    <li> Tübitak 2216C TÜBA-TÜBİTAK Özbekistan Aziz Sancar Research Scholarship Program *
+    <li> 
+        <a href="https://tubitak.gov.tr/tr/burslar/lisansustu/egitim-burs-programlari/2210-yurt-ici-yuksek-lisans-burs-programlari">
+        Tübitak 2210 MSc Scholarship</a>  </li>
+    <li> 
+        <a href="https://tubitak.gov.tr/tr/burslar/lisansustu/egitim-burs-programlari/2211-yurt-ici-doktora-burs-programlari">
+        Tübitak 2211 National PhD Scholarship</a>  
+    <li> 
+        <a href="https://tubitak.gov.tr/tr/burslar/lisansustu/uluslararasi-burslar/2216c-tuba-tubitak-ozbekistan-aziz-sancar-arastirma-burs-programi">
+        Tübitak 2216C TÜBA-TÜBİTAK Özbekistan Aziz Sancar Research Scholarship Program *</a> 
   </ul> 
   <p> For Postdoctoral resaerchers </p>
   <ul>
@@ -109,6 +113,10 @@ pagination:
   </ul> 
   <p> For Undergraduates </p>
   <ul>
-    <li> Tübitak 2247-C Star Internship Scholarship
-    <li> 2209-A Undergraduate project support </li>
+    <li> 
+      <a href="https://tubitak.gov.tr/tr/burslar/lisans-onlisans/burs-programlari/2247-c-stajyer-arastirmaci-burs-programi-star">
+      Tübitak 2247-C Star Internship Scholarship</a> 
+    <li> 
+      <a href="https://tubitak.gov.tr/en/scholarships/lisans-onlisans/destek-programlari/2209-research-project-support-programme-undergraduate-students"> 
+      2209-A Undergraduate project support</a> </li>
   </ul> 
