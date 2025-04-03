@@ -47,16 +47,27 @@ layout: default
         <li> have background in  
           {% assign limit = page.applicant_background.size | minus: 1 %}
           {% for bg in page.applicant_background limit: limit %}
-              {{bg}} ,
+              {{bg}} ,    
           {% endfor %}
-          or  page.applicant_background.last
+          or  {{ page.applicant_background.last }}
          </li>
         <li> have high motivation </li>
         <li> have good oral and written communication skills in English. </li>
         <li> be able to work on-site at METU Ankara</li>
       </ul>  
 
-      {{ content }}
+      
+      <p> Applicant should have experience/knowledge in following areas </p>
+      <ul>
+          {% for experience in page.applicant_experience.mandatory %}
+              <li> {{ experience }} </li>
+          {% endfor %}
+
+          {% for experience in page.applicant_experience.optional %}
+              <li> {{ experience }} (optional)</li>
+          {% endfor %}
+      </ul>  
+
 
       <h4> Application </h4> 
       <p> You can apply by sending an <a href="/Contact/index.html">email</a> with title "application_magnetic_continuum_robots", including your:</p>
