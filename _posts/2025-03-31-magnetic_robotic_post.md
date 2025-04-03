@@ -2,7 +2,7 @@
 layout: post
 title: Magnetic Continuum Robots
 date: 2025-03-31 09:02:00
-description: PhD/MSc position (not Funded)
+description: PhD/MSc position 
 tags: formatting links
 categories: sample-posts
 funding: currently not funded
