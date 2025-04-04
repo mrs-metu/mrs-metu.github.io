@@ -10,9 +10,3 @@ applicant_background: [Mechanical Engineering, Electrical Engineering, Biomedica
 applicant_experience_mandatory: [ Mechatronics (integrated hardware and software system) , Programming (C++, Python, ROS) , CAD designing , Embedded systems]
 applicant_experience_optional: [Control theory , Magnetism]
 ---
-<!--
-
-
-
-
--->
