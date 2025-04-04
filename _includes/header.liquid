@@ -17,7 +17,11 @@
             {% endif %}
           {% else %}
             <!--{{- site.title -}} -->
-            <img src="{{ site.baseurl }}/assets/img/white_logo.png" alt="drawing" height="40"/>
+            {% if highlight_theme_light=="none" %}
+              <img src="{{ site.baseurl }}/assets/img/white_logo.png" alt="drawing" height="40"/>
+            {% else %}
+              <img src="{{ site.baseurl }}/assets/img/black_logo.png" alt="drawing" height="40"/>
+            {% endif%}
           {% endif %}
         </a>
       <!-- Navbar Toggle -->
