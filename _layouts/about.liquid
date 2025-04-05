@@ -60,22 +60,16 @@ layout: default
     {% endif %}
 
 
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
-      </h2>
-      {% include selected_papers.liquid %}
-    {% endif %}
-
-    <!-- Social 
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-        <div class="contact-note">{{ site.contact_note }}</div> 
+    <div class="row">
+      <div class="column">
+        <h2> Affliations </h2>
+        <p> Institute logos ...</p>
       </div>
-   
-    {% endif %} 
-    -->
+      <div class="column">
+        <h2> Fundings </h2>
+        <p> Funding Agencies ...</p>
+      </div>
+    </div>
+
   </article>
 </div>
