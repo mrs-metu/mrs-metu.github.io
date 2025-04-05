@@ -1427,9 +1427,13 @@ figure.cover {
   padding: 0;
 }
 
-.lab-strip img {
+.strip-item {
+  aspect-ratio: 4 / 3; /* you can tweak this if needed */
+  overflow: hidden;
+}
+.strip-item img {
   width: 100%;
-  height: auto;
+  height: 100%;
   display: block;
   object-fit: cover;
   margin: 0;
