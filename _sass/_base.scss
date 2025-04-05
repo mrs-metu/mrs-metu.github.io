@@ -1420,21 +1420,21 @@ figure.cover {
 
 /* TODO EFE test for css */
 .lab-strip {
-  width: 100vw;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 100%;
   margin: 0;
+  padding: 0;
 }
 
 .lab-strip img {
-  height: 300px;
-  object-fit: cover;
+  width: 100%;
+  height: auto;
   display: block;
+  object-fit: cover;
   margin: 0;
   padding: 0;
-  display: block;
+  border: none;
 }
 
 /* Responsive grid layout for small screens */
