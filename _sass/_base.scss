@@ -1417,3 +1417,41 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+/* TODO EFE test for css */
+<style>
+.lab-strip {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 20px;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.lab-strip img {
+  height: 150px;
+  width: auto;
+  object-fit: cover;
+  display: block;
+  margin: 0;
+  border-radius: 0;
+}
+
+/* Responsive grid layout for small screens */
+@media (max-width: 600px) {
+  .lab-strip {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    justify-items: center;
+  }
+
+  .lab-strip img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+  }
+}
+</style>
