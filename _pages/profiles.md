@@ -11,5 +11,8 @@ profiles:
     image: photo_pi.jpeg
     content: about_PI.md
     image_circular: false # crops the image to make it circular
-    more_info: 
+    more_info:  >
+      <p> Dr. M. Efe Tiryaki </p> 
+      <p> mail@coming</p> 
+      <p> Office coming</p>
 ---
