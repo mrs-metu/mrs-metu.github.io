@@ -15,10 +15,3 @@ profiles:
 ---
 
 
-
- <div class="Hiring" style="text-align: center">
-      <h1> Looking for Teammates!</h1>
-      <p>We are continuously looking for talented Master's, Doctoral students, and Postdoctoral researchers, as well as motivated undergraduate researchers/interns. </p>
-      <br line-height="75%">  
-      <a href="/Opportunities/index.html">Opportunities</a>
-</div>
