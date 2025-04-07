@@ -12,6 +12,6 @@ Contact: Dr. M. Efe Tiryaki\
 Email: coming@soon
 
 
-Mechanical Enginnering\
+Mechanical Enginnering G 206\
 Middle East Tecnical University\
 Ankara,Türkiye
